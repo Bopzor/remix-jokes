@@ -1,7 +1,8 @@
 {
   "name": "remix-template-remix",
   "private": true,
-  "description": "",
+  "description": "Remix run jokes tutorial",
+  "version": "0.0.1",
   "license": "",
   "sideEffects": false,
   "prisma": {
